@@ -3,5 +3,5 @@ dependencies:
   - python=3.6
   - numpy
   - scipy
-  - sklearn
+  - scikit-learn
   - pandas
