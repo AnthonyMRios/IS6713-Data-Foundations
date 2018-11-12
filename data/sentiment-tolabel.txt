@@ -1,0 +1,31 @@
+Target	Sentiment	Tweet
+BlankTarget	Neutral	Yes he did @BernardGoldberg #GOPDebates. Not even a nice try lib!
+BlankTarget	Neutral	RT @SupermanHotMale: Hey Jeb Bush, you have nothing to replace ObamaCare with and you give us a break, you fu***ng Asshole. #GopDebates
+BlankTarget	Neutral	Chris Christie and Rand Paul duke it out in debate over surveillance http://t.co/StRjkabqo8 #RandPaulDuke #ChrisChristie #GOPDebate
+BlankTarget	Neutral	RT @TrumpIssues: Congress &amp; morons like @NancyPelosi can pass a bill WITHOUT reading it, but Trump better not call someone a slob. #GOPDeba‚Ä¶
+BlankTarget	Neutral	RT @k_mcq: It‚Äôs embarrassing that a brilliant, stunning woman like Megyn Kelly uses SJW, feminist propaganda to attack Republicans. #GOPDeb‚Ä¶
+BlankTarget	Neutral	RT @FanofDixie: New Hampshire Poll: Paul leads Hillary by 2%, Trump losing by 10% - http://t.co/vXszukmivB #GOPDebate #Trump #RandPaul #Sta‚Ä¶
+BlankTarget	Neutral	RT @scottjohnson: Is there a stinger after the credits? #GOPDebate
+BlankTarget	Neutral	@AndreaTantaros @ericbolling I'm with you regarding @realDonaldTrump. Sadly @FoxNews as an establishment is biased.  Blatantly. #GOPDebate
+BlankTarget	Neutral	Trump responds to @megynkelly question on misogyny with more misogyny #GOPDebate http://t.co/Pb5cgmO3V5 http://t.co/8PFdgltNAW
+BlankTarget	Neutral	CNN &amp; the New York Times liked the #GOPDebate? Tells you everything you need to know. #ModeratorFail
+BlankTarget	Neutral	@realDonaldTrump whaah üò≠üò≠ @megynkelly &amp; #foxnews was unfair to me They shouldn't ask questions about what I say üò≠üò≠ #gopdebate
+BlankTarget	Neutral	RT @BRios82: Trickle-Down Econ &amp; your Brother's Recession caused more Poverty. @JebBush....Want to lift them out of poverty? Raise Wages! #‚Ä¶
+BlankTarget	Neutral	"RT @mikandynothem: Carly Fiorina may have just won this debate with one video clip.
+BlankTarget	Neutral	It's Huge... It's a F#&amp;king #Juggernaut #DonaldTrump #GOPDebate  https://t.co/F30T6FbE6P
+BlankTarget	Neutral	Racist, religious fanatic debate.  #GOPignorance #GOPDebate  https://t.co/u8zEB21JXh
+BlankTarget	Neutral	Great new @ScottWalker video. He consistently focused the debate last night on Clinton. #Walker16 #GOPDebate #AndWon https://t.co/DF8uNRiZRr
+BlankTarget	Neutral	RT @SoccerMum11: Is it me or was #GOPDebate asking more personal attack type questions to @realDonaldTrump? Not cool.
+BlankTarget	Neutral	Only rule in politics: You can sound crazy but you can‚Äôt look creepy. #GOPDebate
+BlankTarget	Neutral	RT @NotBillWalton: The Straight Outta Compton trailer that just came on spent more time on police brutality than the #GOPDebate did.
+BlankTarget	Neutral	RT @sallykohn: Every thought of running for president? You offer same substantive, thoughtful critiques as in #GOPDebate  https://t.co/l597‚Ä¶
+BlankTarget	Neutral	"A house divided against itself would be better than this." - Lego Abraham Lincoln #GOPdebates
+BlankTarget	Neutral	DelilahNoBSzone: RT RedNationRising: Congrats to ALL #GOPDebate candidates -- and to you -- for discussing, tweeti‚Ä¶ http://t.co/AuhlNZa3Ww
+BlankTarget	Neutral	"RT @GovMikeHuckabee: I'll protect SS &amp; Medicare. I'll kill anything posing a threat to the promises we've made our seniors. #GOPDebate
+BlankTarget	Neutral	What are the republican candidates going to do to keep nuclear weapons out of the wrong hands? #GOPDebates
+BlankTarget	Neutral	RT @rachelheldevans: "The purpose of the military is to kill people and break things." - Seems like this would be really insulting to those‚Ä¶
+BlankTarget	Neutral	@krauthammer Sorry the downfall of Trump in last nights debate is greatly exaggerated #GOPDebate
+BlankTarget	Neutral	RT @amirandas: #GOPdebate was indeed flaccid. Want to hear what @BernieSanders has to say in the Democrat debate! #DebateWithBernie https:/‚Ä¶
+BlankTarget	Neutral	best part of #GOPDebate -@realDonaldTrump telling @megynkelly "we aint cool for real &amp; i dont have to be nice to yo ass"
+BlankTarget	Neutral	@wkdental Only Kasich came across as a sensible, decent and rational human being. Out of all of them! #GOPDebates
+BlankTarget	Neutral	Does it seem that even the candidates that are praised for "sticking to the question" still kind of run around it? #GOPDebate #politics
