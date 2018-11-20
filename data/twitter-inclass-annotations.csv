@@ -1,0 +1,21 @@
+tweet id,student 1,student 2,student 3,student 4,student 5,student 6,student 7,student 8,student 9,student 10,student 11
+0,negative,negative,neutral,positive,negative,negative,negative,negative,negative,negative,negative
+1,negative,negative,negative,negative,negative,negative,negative,negative,negative,negative,negative
+2,unknown,unknown,positive,neutral,mixed,unknown,unknown,neutral,neutral,unknown,mixed
+3,negative,negative,negative,negative,negative,negative,negative,negative,negative,negative,negative
+4,mixed,negative,negative,negative,negative,negative,negative,negative,mixed,negative,negative
+5,unknown,positive,mixed,unknown,unknown,unknown,mixed,positive,neutral,unknown,negative
+6,unknown,unknown,neutral,unknown,unknown,unknown,unknown,neutral,neutral,negative,unknown
+7,negative,negative,negative,mixed,negative,negative,negative,negative,negative,negative,mixed
+8,negative,negative,negative,negative,unknown,negative,negative,negative,negative,negative,negative
+9,unknown,negative,negative,unknown,negative,negative,negative,negative,negative,unknown,mixed
+10,negative,negative,negative,mixed,negative,negative,negative,neutral,negative,negative,negative
+11,negative,negative,negative,mixed,mixed,negative,unknown,negative,negative,negative,negative
+12,unknown,positive,positive,mixed,positive,positive,positive,neutral,positive,mixed,positive
+13,unknown,positive,positive,mixed,negative,positive,negative,neutral,positive,positive,positive
+14,negative,positive,positive,mixed,negative,negative,negative,negative,positive,positive,negative
+15,positive,positive,positive,mixed,positive,positive,positive,positive,positive,negative,positive
+16,negative,negative,mixed,mixed,negative,negative,negative,negative,positive,mixed,negative
+17,unknown,negative,negative,positive,mixed,negative,mixed,neutral,positive,negative,mixed
+18,negative,positive,positive,mixed,negative,mixed,unknown,negative,positive,mixed,negative
+19,positive,negative,negative,mixed,negative,positive,negative,neutral,neutral,negative,positive
