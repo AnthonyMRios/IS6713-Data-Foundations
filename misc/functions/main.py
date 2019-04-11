@@ -1,7 +1,11 @@
 # You should NOT edit this file!
-from exercise import my_exercise
+from exercise import *
+
+from subdir.newFunc import printHello
 
 def main():
+    newC = TestClass()
+    printHello()
     arg1 = 'sum'
     print("SUM: {}".format(my_exercise("sum", './data/numbers.txt')))
 

@@ -1,3 +1,7 @@
+class TestClass:
+    def __init__(self):
+        print("NEW CLASS")
+
 def my_exercise(sum_or_subtract, filename):
     '''
     Sum or Average all numbers in the file filename
