@@ -7,7 +7,8 @@ def main():
     Po = 0 # Po Sum
     nj = {} # Keep track of class (column) sums
     headers = []
-    with open('twitter-inclass-annotations-easy.csv') as inf:
+    #with open('twitter-inclass-annotations-easy.csv') as inf:
+    with open('pos-clean') as inf:
         iCSV = csv.reader(inf)
         for row in iCSV:
             if head:
